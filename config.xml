@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.f7en.edu.mibile" version="2.9" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.f7en.edu.mibile" version="3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Foundations Education</name>
-  <description>Official Moodle Mobile app</description>
+  <description>Foundations Education's Official Moodle Mobile app</description>
   <author href="http://edu.f7en.com" email="admin@edu.f7en.com">Solomon London</author>
   <content src="index.html"/>
   <access origin="*"/>
