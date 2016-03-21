@@ -1,5 +1,5 @@
 {
-    "app_id" : "net.moodle.learn",
+    "app_id" : "com.f7en.edu.mobile",
     "versioncode" : "2",
     "versionname" : "1.1",
     "cache_expiration_time" : 300000,
@@ -8,6 +8,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "https://learn.moodle.net/",
+    "siteurl": "https://mobile.edu.f7en.com/",
     "gcmpn": "learn-moodle-1159"
 }
